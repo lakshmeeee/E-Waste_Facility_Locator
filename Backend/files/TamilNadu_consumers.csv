@@ -1,0 +1,31 @@
+cid,cname,email,phone,category,epr_id,address,state,pincode,gmap_link,start_time,end_time,doorstep_coll,latitude,longitude
+1, M/s. Tritech Systems,triabdullah@yahoo.com,044-42617179,Recycler,601,"941, 66th St, K K Nagar, MGR Nagar",Tamil Nadu,600078,https://maps.app.goo.gl/yAmPPgNLvHvqjMeA9,09:00,21:00,Yes,13.04414431,80.1942027
+2,M/s. Aer World Wide,aer123@gmail.com,9765432145,Recycler,602,"90, Grand Northern Trunk Rd, Ponniammanmedu, Chennai  
+Taluk,Tiruvallur",Tamil Nadu,600110,https://maps.app.goo.gl/R6rdvQGgxjnr38Hi7,09:00,21:00,Yes,13.1460484,80.217208
+3,M/s. Green E Waste,green@yahoo.com,7200185121,Recycler,603,"Plot No.33, Geeson Colony Galaxy Road Kil Ayanambakkam Village, Ambattur, Chennai
+Ayanambakkam Village, Ambattur, Chennai, 
+Tamil Nadu 600095",Tamil Nadu,600095,https://maps.app.goo.gl/BFCzftNohwp6J6Tt5,09:00,21:00,Yes,13.07766646,80.15327793
+4,M/s. Abishek enterprises,enterprisesabishek@gmail.com,"044-
+23637878",Recycler,604,"7, Raja Gopalan St, AGS Colony,
+Ramakrishnapuram, Ambattur, Chennai, Tamil Nadu ",Tamil Nadu,600053,https://maps.app.goo.gl/BeeV2P6mzGLCuZKr7,09:00,21:00,No,13.04546271,80.22365473
+5,M/s. JADG India E-Waste Recyclers Pvt. Ltd,jadgewast@gmail.com,044-27925234,Recycler,605,"175, G.N.T Road, Kavaraipettai, Gummidipoondi",Tamil Nadu,601201,https://maps.app.goo.gl/wdXjqdGHArf6fGQSA,09:00,21:00,Yes,13.41007883,80.12665785
+6,M/s. Shri Raam Recycling,info@shriraamrecycling.com,9884499191,Recycler,606,"DP 29, SIDCO Industrial Estate,SIPCOT Complex, Gummidipoondi
+PhaseIV & V,SIDCO Industrial Estate, Gummidipoondi 
+Taluk, Tiruvallur District -601 201",Tamil Nadu,601201,https://maps.app.goo.gl/MHzqrmCLbUXSTwLy8,09:00,21:00,Yes,13.38782402,80.0651346
+7,M/s. Virogreen India Pvt. Ltd,muthu@virogreen.in,9940831313,Recycler,607,"S.No.297/1B-2 No.49, S.R.Kandigai Road, Pappankuppam Village,, Gummidipoondi",Tamil Nadu,601201,https://maps.app.goo.gl/mpf2twyaVS5rt9Ro6,09:00,21:00,Yes,13.43847015,80.08972801
+8,M/s. Trishyiraya Recycling India Pvt. Ltd,naveen.prakash@simsmm.com,9840897125,Recycler,608,"28/21, Vadapalani, Chennai",Tamil Nadu,600026,https://maps.app.goo.gl/VhLopjwEsGxKwQ866,09:00,21:00,Yes,13.05198217,80.21512932
+9,M/s. K.S. Traders,traders123@ks.com,4432011418,Dismantler,609,"263, Oyalli Amman Koil Street, Tiruneermalai, Chennai",Tamil Nadu,600044,https://maps.app.goo.gl/NtBZy1QaB77VRRM38,09:00,21:00,Yes,12.96163424,80.11493145
+10,M/s. SEZ Recycling,akshay@sezrecycling.com,9790822555,Recycler,610,"Plot No : 7,4th Avenue,IT-SEZ Area, Mahindra World City, Thirutheri R.F.",Tamil Nadu,603002,https://maps.app.goo.gl/ekQcMwb6zJXnmjMz9,09:00,21:00,Yes,12.72911509,80.00710328
+11,"M/s. Leela Traders,",leela32@trad.com,9380888811,Dismantler,611,"4/34 , Narasingapuram, 3rd St, Maduvinkarai, Guindy, Chennai",Tamil Nadu,600032,https://maps.app.goo.gl/ybNYSy3jgvLDnAyVA,09:00,21:00,Yes,12.99735747,80.2058583
+12,M/s. Enviro Metals Recyclers Pvt.Ltd,enviro@@yahoo.com,9865987789,Recycler,612,"S.No. 104 & 106 Ezhichur Village, Oragadam, Sriperumbudur Taluk, Kancheepuram Dist",Tamil Nadu,603204,https://maps.app.goo.gl/dgHaM2H8nJ5fTceV6,09:00,21:00,Yes,12.80781256,79.91161382
+13,M/s. Gems Recycling (P) Ltd.,gems@yahoo.com,9345855556,Recycler,613,"No.147/A, Neervallur Village, Opp. L&T Construction Skills Training Institute, Near Sriperumbudur, Kanchipuram",Tamil Nadu,631561,https://maps.app.goo.gl/NyZJcrXEpwx3XNRw7,09:00,21:00,No,12.87231503,79.79536565
+14,"M/s. INAA Enterprises,",inaa@gmail.com,9444446229,Recycler,614,"AC 31/24, THIRUMUDIVAKKAM,, SIDCO Industrial Estate, Guindy, Chennai",Tamil Nadu,600032,https://maps.app.goo.gl/7T2sTaXE5BLGK9en7,09:00,21:00,Yes,12.97708033,80.08628798
+15,"M/s. World Scrap Stars Recycling Solutions Pvt.Ltd., ",world@yahoo.com,9876543201,Recycler,615,"No.1, Flat B, 1st Floor, 44th St, Ashok Nagar, Chennai",Tamil Nadu,600083,https://maps.app.goo.gl/KNiddaSG32xYnrT48,09:00,21:00,No,13.03809079,80.21228995
+16,"M/s. Victory Recovery & Recycle Technologies India Private 
+Limited, ",vic@yahoo.com,9887561230,Recycler,616,"Double Dragon Industrial Park, Kottaiyur, Kannur Village & PO, Thiruvallur Dist, Chennai",Tamil Nadu,602108,https://maps.app.goo.gl/6bBCq6HAhb2712Jz5,09:00,21:00,Yes,12.97505839,79.85363248
+17,"M/s. Southern Alloys, ",south20@gmail.com,8988756342,Recycler,617,"149 GNT Road, Post, Ponniammanmedu, Chennai",Tamil Nadu,600110,https://maps.app.goo.gl/Ht6L7PN8vJu2o1KJ7,09:00,21:00,Yes,13.13566755,80.23436715
+18,"M/s. Green India Recyclers, ",green@yahoo.com,9003491034,Recycler,618,"S.F.NO. 26/1B, Kovilpalayam Road, Sulakkal Village, Kinathukadavu Taluk, Coimbatore",Tamil Nadu,642110,https://maps.app.goo.gl/Eu3agMkQcGvLB6vf8,09:00,21:00,No,10.74728388,76.99972171
+19,M/s. Green Era Recyclers,era@gmail.com,8300223526,Recycler,619,"No 37, Sivanandha Industrial Complex, Dr. MS Udayamurthy Nagar, Thadagam Main Rd, Edayarpalayam, Coimbatore",Tamil Nadu,641025,https://maps.app.goo.gl/uFtYGuvym5wxbZgf7,09:00,21:00,Yes,11.05972768,76.91880007
+20,M/s. S.P.P. Enterprises,spp@gmail.com,4429590944,Recycler,620,"No.160/6A, National Highway, Taluk, Mambakkam, Sriperumbudur",Tamil Nadu,602106,https://maps.app.goo.gl/TswsPRW7AYZTCrSe8,09:00,21:00,Yes,12.93710434,79.90324885
+21,M/s. A.K Enterprises,ak@yahoo.com,9443567892,Dismantler,621,"9157, LIG Park Rd, TNHB Colony, TNHB, Ayappakkam, Chennai",Tamil Nadu,600077,https://maps.app.goo.gl/iHggshJu4yNrF7d56,09:00,21:00,Yes,13.17589397,80.13926156
+22,"M/s. TES-AMM (India) Pvt. Ltd.,",tes@mail.com,4445000353,Recycler,622,"SIPCOT Industrial Growth Centre, A-18, Tlk, Oragadam, Panruti, Sriperumbudur",Tamil Nadu,631604,https://maps.app.goo.gl/FNywnLE2orC1YL1p8,09:00,21:00,Yes,12.91735341,79.95522478
