@@ -4,6 +4,8 @@ from sqlalchemy.orm import Session
 from fastapi import Depends, HTTPException, APIRouter, status
 from fastapi.encoders import jsonable_encoder
 import services
+from .authentication import get_current_user
+from geopy.geocoders import Nominatim
 
 from models import Producers, Consumers
 
@@ -37,7 +39,7 @@ async def create_user(
 
 
 @router.delete("/producer/delete_account/{id}", status_code=status.HTTP_204_NO_CONTENT)
-async def delete_user(id, db: Session = Depends(services.get_db)):
+async def delete_user(id, db: Session = Depends(services.get_db), current_user: schemas.ShowProducer = Depends(get_current_user)):
     db.query(Producers).filter(Producers.pid==id).delete(synchronize_session=False)
     db.commit()
     return 'Account with id {id} is deleted'
@@ -45,7 +47,7 @@ async def delete_user(id, db: Session = Depends(services.get_db)):
 
 
 @router.get("/producer/all_producers", response_model=List[schemas.ShowProducer])
-def all(db: Session = Depends(services.get_db)):
+def all(db: Session = Depends(services.get_db), current_user: schemas.ShowProducer = Depends(get_current_user)):
     producers = db.query(Producers).all()
     return producers
 
@@ -60,7 +62,7 @@ def all(db: Session = Depends(services.get_db)):
 
 
 @router.get("/producer/profile/view/{email}", response_model=schemas.ShowProducer)
-def get_prod_by_email(email, db: Session = Depends(services.get_db)):
+def get_prod_by_email(email, db: Session = Depends(services.get_db), current_user: schemas.ShowProducer = Depends(get_current_user)):
     prod = db.query(Producers).filter(Producers.email==email).first()
 
     if not prod:
@@ -69,7 +71,7 @@ def get_prod_by_email(email, db: Session = Depends(services.get_db)):
 
 
 @router.put("/producer/profile/edit/{id}")
-def update_profile(id, request: schemas.CreateProducer, db: Session = Depends(services.get_db)):
+def update_profile(id, request: schemas.CreateProducer, db: Session = Depends(services.get_db), current_user: schemas.ShowProducer = Depends(get_current_user)):
     update_item=jsonable_encoder(request)
     producer = db.query(Producers).filter(Producers.pid == id)
 
@@ -82,7 +84,7 @@ def update_profile(id, request: schemas.CreateProducer, db: Session = Depends(se
     return 'updated'
 
 @router.get("/producer/nearby_facilities", response_model=List[schemas.ConsWithDist])
-def nearby_facilities(lat:str, long:str, pincode:int, db: Session = Depends(services.get_db)):
+async def nearby_facilities(lat:str, long:str, pincode:int, db: Session = Depends(services.get_db)):
     cons = db.query(Consumers).all()
     consumers_with_distance = [
         schemas.ConsWithDist(
@@ -97,7 +99,7 @@ def nearby_facilities(lat:str, long:str, pincode:int, db: Session = Depends(serv
                 start_time=consumer.start_time,
                 end_time=consumer.end_time,
                 doorstep_coll=consumer.doorstep_coll,
-                distance=services.distance(lat, long, consumer.latitude, consumer.longitude, pincode)
+                distance= await services.distance(lat, long, consumer.latitude, consumer.longitude, pincode)
         )
         for consumer in cons
     ]

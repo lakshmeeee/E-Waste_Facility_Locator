@@ -25,7 +25,6 @@ class ShowProducer(BaseModel):
     state: str
     pincode: str
     credits: int
-    date_created: dt.datetime
 
     class Config:
         orm_mode = True
