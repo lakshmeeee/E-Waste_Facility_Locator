@@ -1,0 +1,78 @@
+﻿category,device,gold,silver,palladium,lead,mercury,cadmium,average_life
+Large houseold Appliances,Refrigerator,0.003,0.01,0.003,0.02,0.01,0.002,10
+,Washing Machine,0.003,0.01,0.003,0.02,0.01,0.002,9
+,Air-conditioners,0.003,0.01,0.003,0.02,0.01,0.002,10
+,Large cooling appliances,0.003,0.01,0.003,0.02,0.01,0.002,10
+,Freezers,0.003,0.01,0.003,0.02,0.01,0.002,10
+,Dish Washing Machines,0.003,0.01,0.003,0.02,0.01,0.002,10
+,"Microwaves, Microwave Oven",0.003,0.01,0.003,0.02,0.01,0.002,10
+,Other large appliances used for cooking and other processing of food,0.003,0.01,0.003,0.02,0.01,0.002,10
+,,,,,,,,
+,,,,,,,,
+Small Houseold Appliances,Fluorescent and other Mercury containing lamps,0.002,0.02,0.001,0.01,0.04,0.001,2
+,LED BULBS/TUBES/CONSUMER LUMINARIES & CONSUMER LED DRIVES,0.002,0.02,0.001,0.01,0.04,0.001,4
+,Clothes dryers,0.002,0.02,0.001,0.01,0.04,0.001,10
+,"Grinders, coffee machines and equipment for opening or sealing containers or packages",0.002,0.02,0.001,0.01,0.04,0.001,10
+,Electric cookers,0.002,0.02,0.001,0.01,0.04,0.001,7
+,Electric stoves,0.002,0.02,0.001,0.01,0.04,0.001,7
+,Electric hot plates,0.002,0.02,0.001,0.01,0.04,0.001,5
+,Hair dryer,0.002,0.02,0.001,0.01,0.04,0.001,5
+,Electric shaver,0.002,0.02,0.001,0.01,0.04,0.001,5
+,Electric kettle,0.002,0.02,0.001,0.01,0.04,0.001,5
+,"Other fanning, exhaust ventilation and conditioning equipment",0.002,0.02,0.001,0.01,0.04,0.001,10
+,Electric fans,0.002,0.02,0.001,0.01,0.04,0.001,10
+,Vacuum cleaners,0.002,0.02,0.001,0.01,0.04,0.001,10
+,Carpet sweepers,0.002,0.02,0.001,0.01,0.04,0.001,10
+,Other appliances for cleaning,0.002,0.02,0.001,0.01,0.04,0.001,10
+,,,,,,,,
+,,,,,,,,
+IT and Telecommunication, Personal Computers,0.04,0.17,0.01,0.03,0.02,0.001,6
+,Laptop Computers,0.04,0.17,0.01,0.03,0.02,0.001,5
+,Notebook Computers,0.04,0.17,0.01,0.03,0.02,0.001,5
+,Notepad Computers,0.04,0.17,0.01,0.03,0.02,0.001,5
+,Printers including cartridges,0.04,0.17,0.01,0.03,0.02,0.001,10
+,Copying equipment,0.04,0.17,0.01,0.03,0.02,0.001,8
+,Electrical and electronic typewriters,0.04,0.17,0.01,0.03,0.02,0.001,5
+,User terminals and systems,0.04,0.17,0.01,0.03,0.02,0.001,6
+,Facsimile,0.04,0.17,0.01,0.03,0.02,0.001,10
+,Telex,0.04,0.17,0.01,0.03,0.02,0.001,5
+,Telephones,0.04,0.17,0.01,0.03,0.02,0.001,9
+,Pay telephones,0.04,0.17,0.01,0.03,0.02,0.001,9
+,Cordless telephones,0.04,0.17,0.01,0.03,0.02,0.001,9
+,Cellular telephones,0.04,0.17,0.01,0.03,0.02,0.001,7
+,Cellular telephones ,0.04,0.17,0.01,0.03,0.02,0.001,7
+,Mainframe,0.04,0.17,0.01,0.03,0.02,0.001,5
+,Minicomputers,0.04,0.17,0.01,0.03,0.02,0.001,5
+,Telecommunication Antenna,0.04,0.17,0.01,0.03,0.02,0.001,7
+, Transmitters,0.04,0.17,0.01,0.03,0.02,0.001,5
+, Wi-Fi/wireless enabled Devices,0.04,0.17,0.01,0.03,0.02,0.001,3
+,Radio/Satellite Telephone,0.04,0.17,0.01,0.03,0.02,0.001,7
+,walkie talkie,0.04,0.17,0.01,0.03,0.02,0.001,5
+,BTS (all components excluding structure of tower),0.04,0.17,0.01,0.03,0.02,0.001,15
+,"Tablets, I-PAD",0.04,0.17,0.01,0.03,0.02,0.001,5
+,Phablets,0.04,0.17,0.01,0.03,0.02,0.001,5
+,Scanners,0.04,0.17,0.01,0.03,0.02,0.001,5
+,Routers ,0.04,0.17,0.01,0.03,0.02,0.001,5
+,,,,,,,,10
+,,,,,,,,
+Mass Electronics,Television sets,0.01,0.08,0.002,0.04,0.03,0.002,9
+,"Smart Watch/ Fitness Band, Bluetooth Headset,Virtual Reality Camera, etc",0.01,0.08,0.002,0.04,0.03,0.002,3
+,GPS,0.01,0.08,0.002,0.04,0.03,0.002,5
+,"Screen, Electronic Photo frames, Electronic Display Panel, Monitors",0.01,0.08,0.002,0.04,0.03,0.002,7
+,Radio sets,0.01,0.08,0.002,0.04,0.03,0.002,8
+,Set top Boxes,0.01,0.08,0.002,0.04,0.03,0.002,8
+,Video Cameras,0.01,0.08,0.002,0.04,0.03,0.002,10
+,Video Recorders,0.01,0.08,0.002,0.04,0.03,0.002,5
+,Hi-Fi Recorders,0.01,0.08,0.002,0.04,0.03,0.002,5
+," Speakers, Multi Media Speaker, Home Theatre, Sound Bar, Wireless Speaker etc",0.01,0.08,0.002,0.04,0.03,0.002,10
+,CCTV Camera with DVR & NVR,0.01,0.08,0.002,0.04,0.03,0.002,7
+,Projector,0.01,0.08,0.002,0.04,0.03,0.002,7
+,Digital sound and video recorder and  player,0.01,0.08,0.002,0.04,0.03,0.002,7
+,HDCOM USED FOR VIDEO CONFERENCING,0.01,0.08,0.002,0.04,0.03,0.002,10
+,"Solar panels/cells, solar Photovoltaic panels/cells/modules.",0.01,0.08,0.002,0.04,0.03,0.002,15
+,Digital camera,0.01,0.08,0.002,0.04,0.03,0.002,5
+,Electrical trains or car racing sets,0.01,0.08,0.002,0.04,0.03,0.002,2
+,Hand-held video games consoles,0.01,0.08,0.002,0.04,0.03,0.002,2
+,Video games,0.01,0.08,0.002,0.04,0.03,0.002,2
+,"Computers for biking, diving, running, rowing, etc.",0.01,0.08,0.002,0.04,0.03,0.002,5
+,Sports equipment with electric or electronic components,0.01,0.08,0.002,0.04,0.03,0.002,5

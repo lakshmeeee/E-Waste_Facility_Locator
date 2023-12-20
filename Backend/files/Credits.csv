@@ -1,0 +1,78 @@
+﻿Category,Device,Gold,Silver,Palladium
+Large houseold Appliances,Refrigerator,0.003,0.01,0.003
+,Washing Machine,0.003,0.01,0.003
+,Air-conditioners,0.003,0.01,0.003
+,Large cooling appliances,0.003,0.01,0.003
+,Freezers,0.003,0.01,0.003
+,Dish Washing Machines,0.003,0.01,0.003
+,"Microwaves, Microwave Oven",0.003,0.01,0.003
+,Other large appliances used for cooking and other processing of food,0.003,0.01,0.003
+,,,,
+,,,,
+Small Houseold Appliances,Fluorescent and other Mercury containing lamps,0.002,0.02,0.001
+,LED BULBS/TUBES/CONSUMER LUMINARIES & CONSUMER LED DRIVES,0.002,0.02,0.001
+,Clothes dryers,0.002,0.02,0.001
+,"Grinders, coffee machines and equipment for opening or sealing containers or packages",0.002,0.02,0.001
+,Electric cookers,0.002,0.02,0.001
+,Electric stoves,0.002,0.02,0.001
+,Electric hot plates,0.002,0.02,0.001
+,Hair dryer,0.002,0.02,0.001
+,Electric shaver,0.002,0.02,0.001
+,Electric kettle,0.002,0.02,0.001
+,"Other fanning, exhaust ventilation and conditioning equipment",0.002,0.02,0.001
+,Electric fans,0.002,0.02,0.001
+,Vacuum cleaners,0.002,0.02,0.001
+,Carpet sweepers,0.002,0.02,0.001
+,Other appliances for cleaning,0.002,0.02,0.001
+,,,,
+,,,,
+IT and Telecommunication, Personal Computers,0.04,0.17,0.01
+,Laptop Computers,0.04,0.17,0.01
+,Notebook Computers,0.04,0.17,0.01
+,Notepad Computers,0.04,0.17,0.01
+,Printers including cartridges,0.04,0.17,0.01
+,Copying equipment,0.04,0.17,0.01
+,Electrical and electronic typewriters,0.04,0.17,0.01
+,User terminals and systems,0.04,0.17,0.01
+,Facsimile,0.04,0.17,0.01
+,Telex,0.04,0.17,0.01
+,Telephones,0.04,0.17,0.01
+,Pay telephones,0.04,0.17,0.01
+,Cordless telephones,0.04,0.17,0.01
+,Cellular telephones,0.04,0.17,0.01
+,Cellular telephones ,0.04,0.17,0.01
+,Mainframe,0.04,0.17,0.01
+,Minicomputers,0.04,0.17,0.01
+,Telecommunication Antenna,0.04,0.17,0.01
+, Transmitters,0.04,0.17,0.01
+, Wi-Fi/wireless enabled Devices,0.04,0.17,0.01
+,Radio/Satellite Telephone,0.04,0.17,0.01
+,walkie talkie,0.04,0.17,0.01
+,BTS (all components excluding structure of tower),0.04,0.17,0.01
+,"Tablets, I-PAD",0.04,0.17,0.01
+,Phablets,0.04,0.17,0.01
+,Scanners,0.04,0.17,0.01
+,Routers ,0.04,0.17,0.01
+,,,,
+,,,,
+Mass Electronics,Television sets,0.01,0.08,0.002
+,"Smart Watch/ Fitness Band, Bluetooth Headset,Virtual Reality Camera, etc",0.01,0.08,0.002
+,GPS,0.01,0.08,0.002
+,"Screen, Electronic Photo frames, Electronic Display Panel, Monitors",0.01,0.08,0.002
+,Radio sets,0.01,0.08,0.002
+,Set top Boxes,0.01,0.08,0.002
+,Video Cameras,0.01,0.08,0.002
+,Video Recorders,0.01,0.08,0.002
+,Hi-Fi Recorders,0.01,0.08,0.002
+," Speakers, Multi Media Speaker, Home Theatre, Sound Bar, Wireless Speaker etc",0.01,0.08,0.002
+,CCTV Camera with DVR & NVR,0.01,0.08,0.002
+,Projector,0.01,0.08,0.002
+,Digital sound and video recorder and  player,0.01,0.08,0.002
+,HDCOM USED FOR VIDEO CONFERENCING,0.01,0.08,0.002
+,"Solar panels/cells, solar Photovoltaic panels/cells/modules.",0.01,0.08,0.002
+,Digital camera,0.01,0.08,0.002
+,Electrical trains or car racing sets,0.01,0.08,0.002
+,Hand-held video games consoles,0.01,0.08,0.002
+,Video games,0.01,0.08,0.002
+,"Computers for biking, diving, running, rowing, etc.",0.01,0.08,0.002
+,Sports equipment with electric or electronic components,0.01,0.08,0.002
