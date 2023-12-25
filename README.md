@@ -1,4 +1,4 @@
 # E-Waste_Facility_Locator
 
-For the SIH Hackathon
-Backend only here
+### For Smart India Hackathon 2023
+Only backend present in this repo
